@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UniProtocol</string>
+    <string name="cadastrar_aluno">Cadastrar Aluno</string>
+    <string name="digite_nome">Digite nome</string>
+    <string name="digite_matricula">Digite matricula</string>
+    <string name="salvar">salvar</string>
+</resources>
